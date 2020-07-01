@@ -12,7 +12,6 @@ The phases to be performed are the following:
 
 
 To open "SWEG_2016.vpp" programme you need to download the Visual Paradigm from here: https://www.visual-paradigm.com/download/ (30 day free trial).
-Visual Paradigm is a software tool designed for software development teams to model business information system and manage development processes. Visual Paradigm supports key industry modeling languages and standards such as Unified Modeling Language (UML), SoaML, BPMN, XMI, etc.
 
-https://www.visual-paradigm.com/
+Visual Paradigm is a software tool designed for software development teams to model business information system and manage development processes. Visual Paradigm supports key industry modeling languages and standards such as Unified Modeling Language (UML), SoaML, BPMN, XMI, etc. https://www.visual-paradigm.com/
 
